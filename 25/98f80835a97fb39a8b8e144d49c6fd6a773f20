@@ -1,0 +1,29 @@
+app/main.py
+  s_13644bb5b26072::t_c9ccd4bcfeee1a 120-122
+  s_13644bb5b26072::t_facf65db99af00 123
+ui/src/app/app.ts
+  s_13644bb5b26072::t_4f06e297ddce3e 1304-1306
+  s_13644bb5b26072::t_e5d49c33b6497b 1206-1208
+app/tests/test_config.py
+  s_13644bb5b26072::t_8a05f40765735f 65-80
+  s_13644bb5b26072::t_9857b84db133c0 54,56-64,81-90
+  s_13644bb5b26072::t_cbe31a1d7f4514 55
+ui/src/app/app.spec.ts
+  s_13644bb5b26072::t_567c5c5b517522 265-307
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "2598f80835a97fb39a8b8e144d49c6fd6a773f20",
+  "prompts": {},
+  "sessions": {
+    "s_13644bb5b26072": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4f12e33-bc34-4d30-a7da-29fa7d0c3054",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "pacnpal <183241239+pacnpal@users.noreply.github.com>"
+    }
+  }
+}
